@@ -1,0 +1,6 @@
+node_modules/
+out/
+stills/
+preview/
+*.mp4
+*.wav
